@@ -1,0 +1,8 @@
+# Secrets and runtime state written by node_helper
+.env
+.env.tmp
+.token-cache.json
+.usage-state.json
+
+node_modules/
+.DS_Store
